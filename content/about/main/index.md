@@ -25,7 +25,7 @@ intro: |
   * _Central Bank Digital Currencies_ with [Dr. Alexander Teytelboym](https://t8el.com/).
   
   Further experience in hedge funds, economic consultancy, fintech, investment and asset management both in London and Jersey.
-    Previously worked with students at [University of Oxford](https://www.ox.ac.uk/), [Durham University](https://www.durham.ac.uk/), [Imperial COllege London](https://www.imperial.ac.uk/), and more.   
+    Previously worked with students at [University of Oxford](https://www.ox.ac.uk/), [Durham University](https://www.durham.ac.uk/), [Imperial College London](https://www.imperial.ac.uk/), and more.   
 show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
