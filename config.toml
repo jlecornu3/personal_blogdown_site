@@ -1,4 +1,4 @@
-baseURL = "/" # replace for pushing to netlify
+baseURL = "https://joshua-le-cornu.netlify.app/" # replace for pushing to netlify
 theme = "hugo-apero"
 languageCode = "en"
 title = "Joshua Le Cornu"
