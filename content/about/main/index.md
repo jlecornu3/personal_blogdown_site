@@ -6,8 +6,6 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  **Download** [**CV**](/cv.pdf)
-
   Currently working across two relatively new teams at [Orbis Investments](https://www.orbis.com/uk/individual/home):
   
   * _Data Scientist_ / _AI Developer_ implementing financial applications of machine learning for both investment research and stakeholder facing production tools. 
