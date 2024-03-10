@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 description: |
   Engaged data scientist from an Economics background. Tackling financial applications of machine learning whilst building tools for investors and equity researchers.
   
-  **Download** [**CV**](/cv.pdf)
+  **Download** [**CV**](/cv_new.pdf)
   
   <img src="/cv.png" alt="CV_Image" class="img-responsive">
   
