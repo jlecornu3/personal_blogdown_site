@@ -8,13 +8,13 @@ audio_link_label: # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Machine Learning
-  url: https://www.statlearning.com/
+  url: 
 - name: Reading
-  # url: https://en.wikipedia.org/wiki/Empire_of_Pain
+  # url: 
 - name: Baking
-  # url: https://kitchenmason.com/baking-for-beginners/
+  # url: 
 - name: Coding
-  # url: https://www.lamoyegolfclub.co.uk/
+  # url: 
 ---
 
 ** index doesn't contain a body, just front matter above.
