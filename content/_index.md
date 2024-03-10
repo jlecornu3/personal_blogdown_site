@@ -1,6 +1,6 @@
 ---
 title: "Joshua Le Cornu"
-subtitle: "Data Scientist / Decision Analyst / AI Developer"
+subtitle: "Data Scientist / Decision Analyst"
 description: "Curious all things Python, R, investment data, financial machine learning."
 images:
   - img/CroppedCircleSmile.png
