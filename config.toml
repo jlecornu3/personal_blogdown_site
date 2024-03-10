@@ -126,11 +126,11 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
-#  [[menu.header]]
-#    name = "CV"
-#    title = "CV"
-#    url = "/cv/"
-#    weight = 2
+  [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "/cv/"
+    weight = 2
 #  [[menu.header]]
 #    name = "Blog"
 #    title = "Blog"
