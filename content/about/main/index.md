@@ -8,7 +8,7 @@ show_intro: true
 intro: |
   Currently working across two relatively new teams at [Orbis Investments](https://www.orbis.com/uk/individual/home):
   
-  * _Data Scientist_ / _AI Developer_ implementing financial applications of machine learning for both investment research and stakeholder facing production tools. 
+  * _Data Scientist_ implementing financial applications of machine learning for both investment research and stakeholder facing production tools. 
 
   * _Decision Analyst_ working on data driven investor feedback coupled with behavioural finance.
 
