@@ -1,7 +1,7 @@
 ---
 title: "Joshua Le Cornu"
-subtitle: "Data Scientist / Decision Analyst"
-description: "Curious all things Python, R, investment data, financial machine learning."
+subtitle: "Quantitative Researcher"
+description: "Systematic equity researcher, curious all things Python and investment data."
 images:
   - img/CroppedCircleSmile.png
 image_left: true
