@@ -1,19 +1,23 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Joshua Le Cornu"
-role: "Data Scientist "
+role: "Quantitative Researcher"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Machine Learning
+- name: Baking
   url: 
 - name: Reading
   # url: 
-- name: Baking
+- name: Cycling
   # url: 
-- name: Coding
+- name: Golf
+  # url: 
+- name: Skiing
+  # url: 
+- name: Racketball
   # url: 
 ---
 

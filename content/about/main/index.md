@@ -6,7 +6,9 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Currently working across two relatively new teams at [Orbis Investments](https://www.orbis.com/uk/individual/home):
+  Currently tackling new challenges in systematic equity investment at [ExodusPoint](https://www.exoduspoint.com/) and [OxGalton Partners](https://oxgalton.com/). Working as a _Quantitative Researcher_ in an equity market neutral pod, rapidly growing skills in a variety of technologies linked to Python based analytics, AWS services, and automation. 
+  
+  Previously worked across two teams at [Orbis Investments](https://www.orbis.com/uk/individual/home):
   
   * _Data Scientist_ implementing financial applications of machine learning for both investment research and stakeholder facing production tools. 
 
