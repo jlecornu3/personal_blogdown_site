@@ -5,7 +5,7 @@ description: |
   
   **Download** [**CV**](/cv_nov_24.pdf)
   
-  <img src="/cv_nov_24_pic.png" alt="CV_Image" class="img-responsive">
+  <img src="/cv_nov_24_pic_v2.png" alt="CV_Image" class="img-responsive">
   
 show_header: true
 sidebar_left: true
