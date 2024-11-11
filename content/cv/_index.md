@@ -3,9 +3,9 @@ title: "Curriculum Vitae"
 description: |
   Engaged quantitative researcher from an Economics background. Delivering efficient Python-based analytics and data solutions within a systematic equity trading pod.
   
-  **Download** [**CV**](/cv_new_v2.pdf)
+  **Download** [**CV**](/cv_nov_24.pdf)
   
-  <img src="/cv.png" alt="CV_Image" class="img-responsive">
+  <img src="/cv_nov_24_pic.png" alt="CV_Image" class="img-responsive">
   
 show_header: true
 sidebar_left: true
