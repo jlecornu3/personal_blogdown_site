@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 description: |
-  Engaged data scientist from an Economics background. Tackling financial applications of machine learning whilst building tools for investors and equity researchers.
+  Engaged quantitative researcher from an Economics background. Delivering efficient Python-based analytics and data solutions within a systematic equity trading pod.
   
   **Download** [**CV**](/cv_new_v2.pdf)
   

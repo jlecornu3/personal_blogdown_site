@@ -1,7 +1,7 @@
 ---
 title: "About Joshua"
 description: |
-  Engaged data scientist from an Economics background. Tackling financial applications of machine learning whilst building tools for investors and equity researchers.
+  Engaged quantitative researcher from an Economics background. Delivering efficient Python-based analytics and data solutions within a systematic equity trading pod.
 show_header: true
 sidebar_left: true
 # Keep this! Do not edit.
